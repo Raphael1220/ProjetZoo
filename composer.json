@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/zoo",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  },
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "raphael-hernandez",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
